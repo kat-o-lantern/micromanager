@@ -28,5 +28,3 @@ GAME MECHANICS:
 4. Click **"Create codespace on main"** (this will open a VS Code-like editor in your browser).
 5. When the Codespace loads, open the terminal (bottom panel). If it’s not visible, go to **Terminal → New Terminal**.
 6. Run the game with: Python
-   ```bash
-   python micromanager.py
